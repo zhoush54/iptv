@@ -1,3 +1,5 @@
 #EXTM3U x-tvg-url="http://ghp.keleyaa.com/https://raw.githubusercontent.com/zhoush54/iptv/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="http://10.1.0.198:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-01-30 14:56:02
-url
+#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="http://10.1.0.119:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-01-30 15:08:45
+http://119.163.228.48:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="央视新闻备份" tvg-logo="http://10.1.0.119:5180/logo/央视新闻备份.png" group-title="📺自定义频道",央视新闻备份
+http://119.163.228.48:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0

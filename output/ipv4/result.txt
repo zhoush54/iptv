@@ -1,3 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-30 14:56:02,url
+2026-01-30 15:08:45,http://119.163.228.48:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 
+📺自定义频道,#genre#
+央视新闻备份,http://119.163.228.48:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
