@@ -13,7 +13,6 @@ CCTV-10
 CCTV-11
 CCTV-12
 CCTV-13
-CCTV-14
 
 📡卫视频道,#genre#
 广东卫视
@@ -26,7 +25,16 @@ CCTV-14
 山东卫视
 四川卫视
 
+📡国际频道,#genre#
+NHK World
+Wild Earth
+
+电视剧频道,#genre#
+妙手仁心,http://www.douzhicloud.site:35455/huya/29465853$
+天龙八部,http://www.douzhicloud.site:35455/yy/1351814644$
+哆啦A梦
+
 📡港澳台频道,#genre#
 
 📺自定义频道,#genre#
-央视新闻备份,http://119.163.228.48:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$
+
