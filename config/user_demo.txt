@@ -14,10 +14,6 @@ CCTV-11
 CCTV-12
 CCTV-13
 CCTV-14
-CETV-1
-CETV-2
-CETV-3
-CETV-4
 
 📡卫视频道,#genre#
 广东卫视
