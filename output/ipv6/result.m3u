@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="http://ghp.keleyaa.com/https://raw.githubusercontent.com/zhoush54/iptv/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="http://10.1.0.112:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-03-07 20:36:28
+#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="http://10.1.0.137:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-03-28 12:56:55
 http://www.douzhicloud.site:35455/huya/29465853
-#EXTINF:-1 tvg-name="妙手仁心" tvg-logo="http://10.1.0.112:5180/logo/妙手仁心.png" group-title="电视剧频道",妙手仁心
+#EXTINF:-1 tvg-name="妙手仁心" tvg-logo="http://10.1.0.137:5180/logo/妙手仁心.png" group-title="电视剧频道",妙手仁心
 http://www.douzhicloud.site:35455/huya/29465853
-#EXTINF:-1 tvg-name="天龙八部" tvg-logo="http://10.1.0.112:5180/logo/天龙八部.png" group-title="电视剧频道",天龙八部
+#EXTINF:-1 tvg-name="天龙八部" tvg-logo="http://10.1.0.137:5180/logo/天龙八部.png" group-title="电视剧频道",天龙八部
 http://www.douzhicloud.site:35455/yy/1351814644
-#EXTINF:-1 tvg-name="哆啦A梦" tvg-logo="http://10.1.0.112:5180/logo/哆啦A梦.png" group-title="动画频道",哆啦A梦
+#EXTINF:-1 tvg-name="哆啦A梦" tvg-logo="http://10.1.0.137:5180/logo/哆啦A梦.png" group-title="动画频道",哆啦A梦
 http://www.douzhicloud.site:35455/huya/11601963
-#EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="http://10.1.0.112:5180/logo/猫和老鼠.png" group-title="动画频道",猫和老鼠
+#EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="http://10.1.0.137:5180/logo/猫和老鼠.png" group-title="动画频道",猫和老鼠
 http://www.douzhicloud.site:35455/huya/11352879
-#EXTINF:-1 tvg-name="名侦探柯南" tvg-logo="http://10.1.0.112:5180/logo/名侦探柯南.png" group-title="动画频道",名侦探柯南
+#EXTINF:-1 tvg-name="名侦探柯南" tvg-logo="http://10.1.0.137:5180/logo/名侦探柯南.png" group-title="动画频道",名侦探柯南
 http://www.douzhicloud.site:35455/huya/30080236
-#EXTINF:-1 tvg-name="中华小当家" tvg-logo="http://10.1.0.112:5180/logo/中华小当家.png" group-title="动画频道",中华小当家
+#EXTINF:-1 tvg-name="中华小当家" tvg-logo="http://10.1.0.137:5180/logo/中华小当家.png" group-title="动画频道",中华小当家
 http://www.douzhicloud.site:35455/huya/11342413
